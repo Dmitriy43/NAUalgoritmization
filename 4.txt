@@ -1,0 +1,22 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _4
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine(Struct of console c#nLab number 1);
+            Console.WriteLine(Ilnytskiy Dmitriy Georgievich);
+            Console.WriteLine(FAET 133, var 10);
+            Console.WriteLine(nInput x );
+            double x = Double.Parse(Console.ReadLine());
+
+            Console.WriteLine(Math.Exp(4.0x5)+2Math.Sin(7Math.Log(x+5.03)) - Math.PI);
+        }
+    }
+}
